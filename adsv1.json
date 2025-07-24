@@ -9,5 +9,8 @@
      "reward_ad_unit_id": "ccfc6738b42573a2",
      "reward_cooldown_minutes": 30,
      "show_ads_on_download": true,
-     "show_ads_on_chapter_read": true
+     "show_ads_on_chapter_read": true,
+     "app_open_ad_unit_id": "55b4962225eb7592",
+     "app_open_ad_cooldown_minutes": 10
+      
    }
