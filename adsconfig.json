@@ -1,0 +1,13 @@
+{
+  "ads_enabled": false,
+  "banner_enabled": true,
+  "interstitial_enabled": true,
+  "reward_enabled": true,
+  "interstitial_tap_count": 3,
+  "banner_ad_unit_id": "60f926a01cef3728",
+  "interstitial_ad_unit_id": "6186d964a7c43b99",
+  "reward_ad_unit_id": "ccfc6738b42573a2",
+  "reward_cooldown_minutes": 30,
+  "show_ads_on_download": true,
+  "show_ads_on_chapter_read": true
+}
